@@ -16,7 +16,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
       </a> 
 <a href="https://flutter.dev/">
          <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3521432-2944876.png"
-         width="40" height="50">
+         width="40" height="30">
       </a>
          </div>
 
