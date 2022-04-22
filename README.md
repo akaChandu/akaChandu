@@ -9,17 +9,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 <!-- 💞️ I’m looking to collaborate on ... --->
 
 ### Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<div class="row">
-<a href="https://www.oracle.com/java/">
-         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-         width="40" height="50">
-      </a> 
-<a href="https://flutter.dev/">
-         <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3521432-2944876.png"
-         width="40" height="40">
-      </a>
-         </div>
+[![My Skills](https://skillicons.dev/icons?i=java,flutter)](https://skillicons.dev)
         
         
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)  --->
