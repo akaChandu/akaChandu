@@ -9,7 +9,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 <!-- 💞️ I’m looking to collaborate on ... --->
 
 ### Skills and Experience
-![My Skills](https://skillicons.dev/icons?i=java,flutter)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter)](https://flutter.dev)
         
         
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)  --->
