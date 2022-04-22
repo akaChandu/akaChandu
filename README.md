@@ -5,7 +5,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 <!--- 👋 Hi, I’m @akaChandu --->
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Database
-- 📫 How to reach me chanduhpraksh@gmail.com
+- 📫 How to reach me chanduhprakash@gmail.com
 <!-- 💞️ I’m looking to collaborate on ... --->
 
 ### Skills and Experience
