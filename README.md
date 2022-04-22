@@ -1,0 +1,18 @@
+# Hi, 👋 I'm Chandra Prakash Mishra
+I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with flutter. I really enjoying designing cross-platform Mobile App, UI, UX.
+
+<!--- 👋 Hi, I’m @akaChandu --->
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Database
+- 📫 How to reach me chanduhpraksh@gmail.com
+<!-- 💞️ I’m looking to collaborate on ... --->
+
+### Skills and Experience
+- JAVA
+- FLUTTER
+
+
+<!---
+akaChandu/akaChandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
