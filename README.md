@@ -13,7 +13,6 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
          width="40" height="30">
       </a> 
-     JAVA
 - FLUTTER
 
 
