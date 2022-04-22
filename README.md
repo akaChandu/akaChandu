@@ -19,6 +19,9 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
          width="40" height="40">
       </a>
          </div>
+         
+         
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)  
 
 
 <!---
