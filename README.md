@@ -10,11 +10,11 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 
 ### Skills and Experience
 <div class="row">
-- <a href="https://www.oracle.com/java/">
+<a href="https://www.oracle.com/java/">
          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-         width="40" height="30">
+         width="40" height="40">
       </a> 
-- <a href="https://flutter.dev/">
+<a href="https://flutter.dev/">
          <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3521432-2944876.png"
          width="40" height="40">
       </a>
