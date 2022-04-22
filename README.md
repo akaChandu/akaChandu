@@ -9,7 +9,10 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 <!-- 💞️ I’m looking to collaborate on ... --->
 
 ### Skills and Experience
-- <img src="https://www.oracle.com/java/" width="30" height="30"> JAVA
+- <a href="https://www.oracle.com/java/">
+         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+         width="150" height="70">
+      </a> JAVA
 - FLUTTER
 
 
