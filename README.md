@@ -11,9 +11,11 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 ### Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
         
         
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)  --->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)
 
 
 <!---
