@@ -15,6 +15,8 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
         
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 <!---
 akaChandu/akaChandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
