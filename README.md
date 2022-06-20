@@ -3,7 +3,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 <!-- now i am moving toward working with the backend which is giving me a lot of enthusiasm to implement and paly around with the database. --->
 
 <!--- 👋 Hi, I’m @akaChandu --->
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Java, MySql and Flutter.
 - 🌱 I’m currently learning Database
 - 📫 How to reach me chanduhprakash@gmail.com
 <!-- 💞️ I’m looking to collaborate on ... --->
