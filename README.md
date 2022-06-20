@@ -12,6 +12,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
         
         
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaChandu&show_icons=true) -->
