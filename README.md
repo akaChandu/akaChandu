@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 <!-- [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=dynamodb)](https://www.mysql.com/) -->
         
